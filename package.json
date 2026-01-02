@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/AstafevaAnastasia/jsaqa-code/issues"
   },
-  "homepage": "https://github.com/AstafevaAnastasia/jsaqa-code#readme"
+  "homepage": "https://github.com/AstafevaAnastasia/jsaqa-code#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-jest": "^29.12.0",
+    "eslint-plugin-prettier": "^5.5.4",
+    "globals": "^17.0.0"
+  }
 }
